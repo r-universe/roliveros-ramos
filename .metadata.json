@@ -1,10 +1,10 @@
 [
   {
-    "package": "calibrar",
+    "package": "ibm",
     "oncran": true
   },
   {
-    "package": "ibm",
+    "package": "calibrar",
     "oncran": true
   }
 ]
